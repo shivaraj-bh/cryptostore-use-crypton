@@ -11,5 +11,11 @@ This repo reproduces a bug where [dependencies behind a cabal flag](https://gith
        >
 ```
 
+## Reproduce
+
+```sh
+nix develop github:shivaraj-bh/cryptostore-use-crypton
+```
+
 
 
